@@ -1,21 +1,18 @@
-MIT License
+Educational Purpose Only
 
-Copyright (c) 2026 Mohammed Saeed enab
+This project is provided solely for educational, research, and authorized security awareness training purposes. It is intended to demonstrate wireless network security concepts and help students, researchers, and cybersecurity professionals understand how Evil Twin attacks operate and how they can be detected and prevented.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+By using this software, you agree to:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Use it only in controlled laboratory environments or on networks you own or have explicit permission to test.
+Comply with all applicable laws, regulations, and institutional policies.
+Not use this project to gain unauthorized access to systems, intercept communications, collect credentials, or disrupt services.
+Accept full responsibility for your actions and any consequences resulting from the use of this software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Disclaimer
+
+The authors and contributors assume no liability for any misuse, damages, legal consequences, or losses arising from the use of this project. Any use outside authorized educational, research, or testing environments is strictly discouraged and may violate applicable laws.
+
+Copyright (c) 2026 Mohammed Saeed Enab
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the software without restriction, subject to the conditions of the MIT License.
